@@ -1,0 +1,142 @@
+.jumbotron-1 {
+    background-image: url("images/background(2).jpg");
+    background-size: cover;
+    color: #fff;
+    padding: 100px 25px;
+    font-family: Montserrat, sans-serif;
+    height: 500px;
+  }
+  .jumbotron-1 h1{
+    color:  #ffffff;
+    font-weight: bold;
+    color: #f4511e;
+    margin-top: 100px;
+  }
+  .jumbotron-1 p{
+    color:  #ffffff;
+    font-weight: bold;
+    color: #f4511e;
+  }
+
+  #btn-3{
+      background-color: #ffffff;
+      color: black;
+      border-radius: 100px;
+  }
+  #btn-3:hover{
+    color: #f4511e;
+  }
+
+  #btn-4{
+    background-color: #f4511e;
+     color: white;
+    border-radius: 100px;
+   
+  }
+
+  .featurette-divider5{
+      margin-top: 90px;
+  }
+  .featurette-heading{
+      margin-left: 18px;
+  }
+.lead{
+    font-size: 18px;
+    margin-left: 20px;
+}
+.btn{
+    background-color: #f4511e;
+    margin-left: 20px;
+    margin-top: 10px;
+    border-radius: 50px;
+    color: white;
+}
+
+#MUSIC2{
+  margin-top:300px;
+}
+.checked {
+  color: orange;
+}
+#reviews{
+font-size: 20px;
+font-family: Montserrat, sans-serif;
+
+}
+#font{
+  font-size: 60px;
+  color: gray;
+}
+#get{
+color: black;
+}
+
+.btn10{
+  color: white;
+}
+
+
+/* ===================================MUSIC=CSS==================================== */
+.jumbotron-5{
+  background-image: url(images/background10.jpg);
+  background-size: cover;
+  color: #fff;
+  padding: 100px 25px;
+  font-family: Montserrat, sans-serif;
+  height: 500px;
+}
+
+.jumbotron-5 h1{
+  color:  #ffffff;
+  font-weight: bold;
+  color: #f4511e;
+  margin-top: 40px;
+}
+.jumbotron-5 p{
+  color:  #ffffff;
+  font-weight: bold;
+  color: #f4511e;
+
+}
+
+
+
+/* =============================TV================================= */
+
+.jumbotron-10{
+  background-image: url(images/background-tv.jpg);
+  background-size: cover;
+  color: #fff;
+  padding: 100px 25px;
+  font-family: Montserrat, sans-serif;
+  height: 500px;
+}
+
+.jumbotron-10 h1{
+  color:  #ffffff;
+  font-weight: bold;
+  color: #f4511e;
+  margin-top: 40px;
+}
+.jumbotron-10 p{
+  color:  #ffffff;
+  font-weight: bold;
+  color: #f4511e;
+
+}
+/* ==================================blogs=================================== */
+.jumbotron-blogs{
+  background-image: url(images/background-blogs.jpg);
+  background-size: cover;
+  color: #f4511e;
+  padding: 100px 25px;
+  font-family: Montserrat, sans-serif;
+  height: 500px;
+}
+
+
+
+
+
+
+
